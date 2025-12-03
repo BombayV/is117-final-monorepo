@@ -1,0 +1,9 @@
+[submodule "bombayv-web"]
+	path = bombayv-web
+	url = https://github.com/BombayV/bombayv-web
+[submodule "is117-final-project"]
+	path = is117-final-project
+	url = https://github.com/BombayV/is117-final-project
+[submodule "is117-neobrutalism"]
+	path = is117-neobrutalism
+	url = https://github.com/BombayV/is117-neobrutalism
